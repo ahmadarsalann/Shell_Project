@@ -1,0 +1,13 @@
+void ls_command();
+void cd_command();
+void pwd_command();
+void cat_command();
+void signal_handler(int signo);
+void proc_signal_handler(int signo);
+void help_command();
+void exit_command();
+void piped(char **command, int size, int index, bool good, int a, int b);
+void print(char **command, int size);
+int check(char **command, int size, char *symbol);
+void redirection(char **command, int size, int indexa, int indexb);
+void heart();

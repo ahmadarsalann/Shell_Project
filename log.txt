@@ -1,0 +1,55 @@
+CPSC 405 - Shell Project Log
+
+1. 03/26/2021: 7:00pm - 9:00pm
+	read over the instructions
+	studied over the starter code
+	started on main.c
+	pdw_command() works
+	cd_command() works
+	
+2. 03/27/2021: 11:00am - 2:00pm
+	made the makefile
+	continued working on main.c
+	created my_shell.c
+	created the functions in my_shell.c
+	worked on the functions in my_shell.c
+
+3. 03/28/2021: 6:00pm - 7:00pm
+	studied over the starter code again
+	
+4. 03/29/2021: 5:00pm - 
+	studied the starter code again
+	continued working on main.c
+	cat_command() works
+	exit_command() works
+	help_command() works
+
+5. 03/30/2021: 11:12am - 12:10pm
+	worked on the ls_command()
+		4:40pm - 12:12am
+	ls_command() works now
+	main works now with no errors
+	everything exits correctly
+	Arsalan is thinking real hard to do piping and redirection 
+	
+6. 03/31/2021: 3:00pm - 3:42pm
+	working on the test cases
+	cd_command() doesn't work anymore? Weird..
+	       7:25pm -
+	forgot to change if the if statement for cd lol that's why it didn't work
+	uhhhhhhh time to do piping and stuff, Arsalan you got this 
+
+7. 04/1/2021 - 04/02/2021: 5:00pm - 3:00am
+	finished up piping() -love you Arsalan
+	working on redirection
+	doing the low-level design
+	doing test cases
+
+8. 04/02/2021 - 11:00am - 10:00pm
+	piped() works
+	redirection() works
+	test cases are done
+	low/high level diagrams are done
+	effort paper is done
+	I am going to sleep - Lauren
+	Same! - Arsalan

@@ -1,0 +1,7 @@
+/home/ahmadarsalann/comp405/CPSC-405/CPSC-405/Shell_Project
+my_shell
+my_shell.c
+my_shell.h
+my_shell.o
+sh.c
+starter_sh.c
